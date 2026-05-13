@@ -1,0 +1,6 @@
+target/
+*.log
+*.class
+.gradle/
+gradle/wrapper/gradle-wrapper.jar
+/build/
